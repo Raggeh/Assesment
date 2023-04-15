@@ -1,0 +1,50 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  margin-top: 0;
+  background: rgb(12, 83, 12);
+  border-bottom-left-radius: 25px;
+
+}
+
+.header h2 {
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  font-family: Arial;
+}
+
+.header__items{
+    padding: 15px;
+}
+
+.header hr {
+  width: 1100px;
+  margin: auto;
+  background: yellow;
+  border: yellow solid;
+  background-color: yellow;
+ 
+}
+
+.header__items ul li {
+  list-style-type: none;
+}
+
+.header__items ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 50px;
+  font-family: Arial;
+  font-weight: 600;
+}
+
+.header__items ul li a:hover {
+  color: yellow;
+}

@@ -1,0 +1,23 @@
+.footer__wrapper {
+  background: rgb(68, 65, 65);
+  border-radius: 10px;
+  padding-bottom: 30px;
+  color: white;
+  line-height: 30px;
+}
+
+.footer__wrapper {
+  text-align: center;
+  font-family: Arial;
+}
+
+.span__info {
+  color: yellow !important;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.footer__wrapper p {
+  font-weight: 500;
+  font-size: 18px;
+}
